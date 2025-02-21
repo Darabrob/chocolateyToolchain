@@ -5,4 +5,4 @@ Powershell-Skript zur Installation und zum Update von
 - Notepad++
 - VirtualBox
 	- VM anlegen mit Ubuntu
-- Everything
+- Everything (Version 1.4.1)
